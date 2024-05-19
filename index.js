@@ -7,6 +7,6 @@ const app = express();
 app.use(express.json())
 app.use('/kafka', kafkaRouter)
 
-app.listen('8081', () => {
-    console.log('Running @http://localhost:8081');
+app.listen('8080', () => {
+    console.log('Running @http://localhost:8080');
 })
