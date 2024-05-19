@@ -2,7 +2,7 @@
 ### How to get started with Kafka, NodeJS & ExpressJS
 - Clone the repository
 - Install dependencies
-- Install a single node kafka cluster by typing ```docker compose up```
+- Install a single node kafka cluster by typing ```docker compose up -d``` 
 - View and manage your Kafka cluster with Kafdrop by visiting ```http://localhost:19000```
 - Start a backend server by typing ```npm start```
 - Use Postman or any similar tool to send requests to ```http://localhost:8080```
