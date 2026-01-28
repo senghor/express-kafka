@@ -8,7 +8,7 @@ class KafkaController {
     constructor() {
         this.kafka = new Kafka({
             clientId: process.env.CLIENT,
-            brokers: [ process.env.BROKER_1 ]
+            brokers: [ process.env.BROKER_1, process.env.BROKER_2, process.env.BROKER_3, ]
         })
     }
 

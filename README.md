@@ -18,3 +18,15 @@
   }`
 - To consume a topic message, send a POST request to ```http://localhost:8080/kafka/consume``` with payload ```{"topicName": "your_topic_name"}```
 - Have fun
+
+<br />
+
+### Available Kafka Topics with Partitions
+<img src="./shots/topics-partitions.png" width="800" />
+
+### Creating a Kafka Topic
+<img src="./shots/kafka-topic.png" width="800" />
+
+### Publishing to a Topic
+<img src="./shots/publish.png" width="800" />
+
