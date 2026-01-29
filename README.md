@@ -1,4 +1,4 @@
-# Kafka with ExpressJS
+# Apache Kafka in NodeJS for Microservices
 ### How to get started with Kafka, NodeJS & ExpressJS
 - Clone the repository
 - Install dependencies
