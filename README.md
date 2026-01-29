@@ -1,4 +1,4 @@
-# Apache Kafka in NodeJS for Microservices
+# A Multi-Node Apache Kafka Cluster in Docker and Node.js for Microservices
 ### How to get started with Kafka, NodeJS & ExpressJS
 - Clone the repository
 - Install dependencies
